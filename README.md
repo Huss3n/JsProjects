@@ -1,3 +1,13 @@
+# JavaScript Projects for Learning
+
+This repository contains a collection of JavaScript projects that are designed to help beginners learn and practice JavaScript by building real-world applications.
+
+## How to Use
+
+Each project is contained in its own folder, with its own README file that provides a brief overview of what the project is about and what it does. Each project also includes starter code, as well as a set of instructions to guide you through the process of building the application.
+
+To get started, simply clone this repository to your local machine and navigate to the project folder that you're interested in. Follow the instructions in the README file to complete the project.
+
 ## Projects Included
 
 ### Here are the projects that will be included in this repository:
